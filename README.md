@@ -62,3 +62,12 @@ class ViewController: UIViewController, SJMeterStyleSliderViewDelegate {
 
 
 ```
+
+
+## Author
+
+Sumit Jagdev, sumitjagdev3@gmail.com
+
+## License
+
+SJSwiftSideMenuController is available under the MIT license. See the LICENSE file for more info.
