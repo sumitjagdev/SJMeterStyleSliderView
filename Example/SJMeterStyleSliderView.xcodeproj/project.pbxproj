@@ -28,8 +28,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		07ACDD126F52C88A04FDED99 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		2C536A186E8A3C05B83D8621 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		07ACDD126F52C88A04FDED99 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		2C536A186E8A3C05B83D8621 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		4C8AAF76636B61C6C2A6BB28 /* Pods-SJMeterStyleSliderView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SJMeterStyleSliderView_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SJMeterStyleSliderView_Example/Pods-SJMeterStyleSliderView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* SJMeterStyleSliderView_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SJMeterStyleSliderView_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -45,7 +45,7 @@
 		958AF9C83F23671CEC2C136F /* Pods_SJMeterStyleSliderView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SJMeterStyleSliderView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		99ADFD25033C8E632277F7EA /* Pods-SJMeterStyleSliderView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SJMeterStyleSliderView_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SJMeterStyleSliderView_Tests/Pods-SJMeterStyleSliderView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		CD1E0B45DE64996155968DAD /* Pods-SJMeterStyleSliderView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SJMeterStyleSliderView_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-SJMeterStyleSliderView_Tests/Pods-SJMeterStyleSliderView_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		E191FC2EA06EBEB9207FADC3 /* SJMeterStyleSliderView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = SJMeterStyleSliderView.podspec; path = ../SJMeterStyleSliderView.podspec; sourceTree = "<group>"; };
+		E191FC2EA06EBEB9207FADC3 /* SJMeterStyleSliderView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SJMeterStyleSliderView.podspec; path = ../SJMeterStyleSliderView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		F3DAB5193DB8CC89E40B60DB /* Pods_SJMeterStyleSliderView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SJMeterStyleSliderView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 

@@ -1,3 +1,10 @@
+# Project Title
+The SJMeterStyleSliderView control is a completely customisable widget that can be used in any iOS app. It also plays a little victory fanfare.
+
+### Prerequisites
+*  XCode > 9.0
+*  Swift > 4.0
+*  ARC
 
 # SJMeterStyleSliderView
 
