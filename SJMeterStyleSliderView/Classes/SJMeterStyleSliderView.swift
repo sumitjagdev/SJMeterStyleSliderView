@@ -116,7 +116,7 @@ public protocol SJMeterStyleSliderViewDelegate {
         }
     }
     
-    private var currentIndex : Int = 0
+    fileprivate var currentIndex : Int = 0
 //    private(set) var itemCount: Int = 0
     
     public var selectedIndex: Int { return currentIndex }
