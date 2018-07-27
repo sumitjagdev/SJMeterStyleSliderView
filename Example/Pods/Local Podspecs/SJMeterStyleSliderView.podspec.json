@@ -1,0 +1,22 @@
+{
+  "name": "SJMeterStyleSliderView",
+  "version": "0.1.0",
+  "summary": "A short description of SJMeterStyleSliderView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sumitjagdev/SJMeterStyleSliderView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sumitjagdev": "sumitjagdev3@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/sumitjagdev/SJMeterStyleSliderView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SJMeterStyleSliderView/Classes/**/*"
+}

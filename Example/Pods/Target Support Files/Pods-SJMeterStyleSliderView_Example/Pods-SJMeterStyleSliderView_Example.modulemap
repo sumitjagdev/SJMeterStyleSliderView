@@ -1,0 +1,6 @@
+framework module Pods_SJMeterStyleSliderView_Example {
+  umbrella header "Pods-SJMeterStyleSliderView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

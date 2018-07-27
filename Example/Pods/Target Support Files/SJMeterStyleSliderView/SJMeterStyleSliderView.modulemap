@@ -1,0 +1,6 @@
+framework module SJMeterStyleSliderView {
+  umbrella header "SJMeterStyleSliderView-umbrella.h"
+
+  export *
+  module * { export * }
+}
