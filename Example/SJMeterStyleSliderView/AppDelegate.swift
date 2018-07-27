@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  SJSliderView
+//  SJMeterStyleSliderView
 //
 //  Created by sumitjagdev on 07/24/2018.
 //  Copyright (c) 2018 sumitjagdev. All rights reserved.

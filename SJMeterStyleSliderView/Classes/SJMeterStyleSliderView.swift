@@ -1,6 +1,6 @@
 //
-//  SJSliderView.swift
-//  SJSliderView
+//  SJMeterStyleSliderView.swift
+//  SJMeterStyleSliderView
 //
 //  Created by mac on 24/07/18.
 //  Copyright © 2018 SumitJagdev. All rights reserved.
@@ -8,10 +8,10 @@
 
 import UIKit
 
-public protocol SJSliderViewDelegate {
+public protocol SJMeterStyleSliderViewDelegate {
     func didChangeSelectedIndex(index : Int)
 }
-@IBDesignable public final class SJSliderView: UIView {
+@IBDesignable public class SJMeterStyleSliderView: UIView {
     
     @IBInspectable public var sliderContainerBGColor : UIColor? = .clear {
         didSet {
@@ -121,7 +121,7 @@ public protocol SJSliderViewDelegate {
     
     public var selectedIndex: Int { return currentIndex }
     
-    public var delegate : SJSliderViewDelegate!
+    public var delegate : SJMeterStyleSliderViewDelegate!
     
     var indexArray : [CGPoint] = []
     
@@ -335,7 +335,7 @@ public protocol SJSliderViewDelegate {
 }
 
 
-extension SJSliderView : UIScrollViewDelegate {
+extension SJMeterStyleSliderView : UIScrollViewDelegate {
     public  func scrollViewDidEndDecelerating(_ scrollView: UIScrollView) {
         let indexOfPage = scrollView.contentOffset.x / scrollView.frame.size.width
         //your stuff with index

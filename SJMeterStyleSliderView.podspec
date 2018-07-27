@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SJMeterStyleSliderView'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Meter Style Slider Control for selecting current index on meter scale.'
 
 

@@ -7,11 +7,11 @@
 //
 
 import UIKit
-import SJSliderView
+import SJMeterStyleSliderView
 
-class ViewController: UIViewController, SJSliderViewDelegate {
+class ViewController: UIViewController, SJMeterStyleSliderViewDelegate {
 
-    @IBOutlet var sliderView : SJSliderView!
+    @IBOutlet var sliderView : SJMeterStyleSliderView!
     @IBOutlet var stepper : UIStepper!
     
     override func viewDidLoad() {
