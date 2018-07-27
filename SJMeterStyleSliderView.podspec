@@ -10,7 +10,7 @@ The SJMeterStyleSliderView control is a completely customisable widget that can 
                        DESC
 
   s.homepage         = 'https://github.com/sumitjagdev/SJMeterStyleSliderView'
-  s.screenshots     = 'https://raw.githubusercontent.com/sumitjagdev/SJMeterStyleSliderView/master/Screen1.png'
+  s.screenshots     = 'https://raw.githubusercontent.com/sumitjagdev/SJMeterStyleSliderView/master/Screen1.png', 'https://raw.githubusercontent.com/sumitjagdev/SJMeterStyleSliderView/master/Screen2.png'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'sumitjagdev' => 'sumitjagdev3@gmail.com' }
   s.source           = { :git => 'https://github.com/sumitjagdev/SJMeterStyleSliderView.git', :tag => s.version.to_s }
