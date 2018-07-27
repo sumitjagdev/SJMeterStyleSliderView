@@ -7,7 +7,7 @@
 
 ![](Sample1.gif?raw=true "SJMeterStyleSliderView screenshot")
 
-# SJMeterStyleSliderView
+# Overview
 The SJMeterStyleSliderView control is a completely customisable widget that can be used in any iOS app. It also plays a little victory fanfare.
 
 ## Requirements
